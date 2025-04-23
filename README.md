@@ -21,4 +21,4 @@ No installation needed! Download and Enjoy it for free.\
 [Contact me](https://www.linkedin.com/in/qiangliu427/) *if you have questions.*
 
 Note:
-This App is an example of [Python calling C functions](/Python-calls-C-dll), which are defined in **qlcpp/solarLunar.dll**.
+This App is an example of [Python calling C functions](../../../Python-calls-C-dll), which are defined in **qlcpp/solarLunar.dll**.
