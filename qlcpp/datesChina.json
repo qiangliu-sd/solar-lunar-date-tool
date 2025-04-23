@@ -8,8 +8,8 @@
 {
 	"Solar_cap": "阳历日\nGregorian",
 	"Lunar_cap": "阴历日\nChinese",
-	"Date_ttip": "US Date: month/day/year",
-	"Lunar_ttip": "yyyymmdd and Lunar date in Chinese"
+	"Date_ttip": "Date format: month/day/year",
+	"Lunar_ttip": "yyyymmdd: [plus] its Chinese character"
 },
 "Years":
 {
