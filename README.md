@@ -2,17 +2,19 @@
 	Convert Gregorian date to/from Chinese lunar date
 
 Features:
-1. Show Lunar dates between 2020 and 2040 in Chinese characters. Note: user can add more years in **qlcpp/datesChina.json**
-2. Show two Gregorian dates for Lunar leap month
-3. Work for Year 1901 to Year 2099. Results for other years are not dependable
+1. Define your own format for displaying dates in Chinese characters in **qlcpp/datesChina.json**. By default, show Lunar dates in Chinese characters between 2020 and 2040.
+2. Show two Gregorian dates for Lunar leap months.
+3. Work for Year 1901 to Year 2099. Results for other years are not dependable!
 
 How to run:
-1. update json-file:
-   - modify values of keys in **datesChina.json**\
+1. If you want, update json-file:
+   - Add more keys for more years
+   - Modify values of keys in **datesChina.json**\
 (*keep the json file in the sub-dir*: **qlcpp**; 
-*do NOT modify its file-name & sub-dir-name*)
+*do NOT modify the names, qlcpp and datesChina.json*)
 
-2. double-click **SolarLunarConvert.exe**
+2. Double-click **SolarLunarConvert.exe**
+(Your can import my digital certificate, **qLiu_Github_cert.pfx**. See [Windows11-self-signed-certificate](../../../Windows11-self-signed-certificate))
 	
 System requirements:
 - Windows OS
